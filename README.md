@@ -4,6 +4,6 @@ This repository is support material for CGI blog post for [Azure ML Pipelines: A
 The code refered in the blog post is available in this repository.
 
 - [train.R](train.R)
-- [Dockerfile](Dockerfile)
+- [Dockerfile.txt](Dockerfile.txt)
 - [pipeline.py](pipeline.py)
 
